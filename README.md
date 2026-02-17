@@ -17,9 +17,7 @@ Hello world, im a webdeveloper!
   2. css
   3. javascript
   contact me on:
-  <a href="https://cwebdeveloper.github.io/-/">
-    
-  💻
+  <a href="https://cwebdeveloper.github.io/-/">💻
 </address>
 </pre>
 
