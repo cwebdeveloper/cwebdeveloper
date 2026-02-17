@@ -3,7 +3,8 @@
 Hello world, im a webdeveloper!
 
 <h1>-computer coding💻</h1>
-<pre>i program everyday i use html-css-javascript
+<pre>
+  i program everyday i use html-css-javascript
   i create websites for buiness & more that's getting started
   with a buiness. contact me on my website!
 </pre>
@@ -16,7 +17,8 @@ Hello world, im a webdeveloper!
   2. css
   3. javascript
   contact me on:
-  https://cwebdeveloper.github.io/-/
+  <a href="https://cwebdeveloper.github.io/-/">
+    
   💻
 </address>
 </pre>
