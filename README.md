@@ -9,7 +9,8 @@ Hello world, im a webdeveloper!
 </pre>
 
 
-<address>
+<pre>
+  <address>
   the program-lg i use:
   1. html
   2. css
@@ -18,5 +19,6 @@ Hello world, im a webdeveloper!
   https://cwebdeveloper.github.io/-/
   💻
 </address>
+</pre>
 
 ![BroCodeConsoleGIF](https://github.com/user-attachments/assets/d162966d-74c0-48af-84a2-c838bbeddc06)
