@@ -4,9 +4,9 @@ Hello world, im a webdeveloper!
 
 <h1>-computer coding💻</h1>
 <pre>
-  i program everyday i use html-css-javascript
-  i create websites for buiness & more that's getting started
-  with a buiness. contact me on my website!
+  I program everyday i use html,css,javascript
+  I create websites for business & more that's getting started
+  with a business. contact me on my website!
 </pre>
 
 
